@@ -1,0 +1,3 @@
+* Covetel::LDAP::Sync
+
+This file is the readme. 
